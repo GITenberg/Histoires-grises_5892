@@ -1,0 +1,25 @@
+_repo: Histoires-grises_5892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tavernier, E. Edouard
+    gutenberg_agent_id: '1895'
+    url: http://www.gutenberg.org/2009/agents/1895
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5892'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: Plutarque -- La carrière d'Arsay-Lancourt -- La saisie -- Boum.
+title: Histoires grises
+url: http://www.gutenberg.org/ebooks/5892
